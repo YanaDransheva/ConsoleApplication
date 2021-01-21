@@ -5,6 +5,7 @@ fun main(args: Array<String>) {
    val b = readLine()
 
    val c = Integer.parseInt(a) + Integer.parseInt(b)
+   val c = Integer.parseInt(a) + Integer.parseInt(b)
 
    print("$c")
 
